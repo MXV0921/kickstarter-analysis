@@ -12,9 +12,9 @@ The resulting data we has given us an ability to focus on variables that can dir
 
 The data we received was over a period of time from 2009 until 2017. While reviewing the data we focused on two main variables, the date theater kickstarter projects were launched and the outcome of kickstarter fundraisers based on the goal of the fundraiser.
 
-(https://github.com/MXV0921/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![alt text](https://github.com/MXV0921/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcome vs Launch")
 
-(https://github.com/MXV0921/kickstarter-analysis/blob/main/Resources/Outcome_Based_on_Goal.png)
+![alt text](https://github.com/MXV0921/kickstarter-analysis/blob/main/Resources/Outcome_Based_on_Goal.png "Outcome Based on Goal")
 
 There are outside variables that may influence the success rate of certain projects that are not included in the raw data we were provided. Kickstarter allows certain projects to be featured, and their website also recommends projects that it believes the visitors to the website will help fund. Our raw data doesn't include these outside influences and without more information we cannot be sure how these spotlights may have affected our data set.
 
