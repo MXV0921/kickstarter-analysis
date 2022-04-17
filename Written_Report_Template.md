@@ -16,7 +16,7 @@ The data we received was over a period of time from 2009 until 2017. While revie
 
 ![alt text](https://github.com/MXV0921/kickstarter-analysis/blob/main/Resources/Outcome_Based_on_Goal.png "Outcome Based on Goal")
 
-There are outside variables that may influence the success rate of certain projects that are not included in the raw data we were provided. Kickstarter allows certain projects to be featured, and their website also recommends projects that it believes the visitors to the website will help fund. Our raw data doesn't include these outside influences and without more information we cannot be sure how these spotlights may have affected our data set.
+There are outside variables that may influence the success rate of certain projects that are not included in the raw data we were provided. Kickstarter allows certain projects to be featured, and their website also recommends projects that it believes the visitors to the website will help fund. Our initial breakdown doesn't include these outside influences and we added an addtional sheet and pivot table to look at the success rate of projects that were given a spotlight. This data showed that 100% of all projects that were featured, while none of the projects that remained unfeatured were unsuccessful.
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -34,4 +34,8 @@ Projects requesting under $10,000 have a high success rate but is likely not eno
 
 ### Challenges and Difficulties Encountered
 
+There remains many variables of the dataset that we do not have full access to. While we are given data on 'Total Pledged' and 'Backers Count" we do not know the exact breakdown of how much each donor has given. Some of these projects may have found investors that give a large donation to help fund the project. As stated earlier, Kickstarter will promote certain fundraisers that will also skew the success rate of projects. We do know that this promotion is a huge indicator of success.
+
 ## Results
+
+We recommend that this project be launched in the late Spring. May and June have the highest success rates. The funding goal shouldn't be above $40,000. Projects above this amount have a higher failure rate. We would **highly \_recommend** that an investment be made to feature this project on the Kickstarter website.
