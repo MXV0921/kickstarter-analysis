@@ -38,4 +38,4 @@ There remains many variables of the dataset that we do not have full access to. 
 
 ## Results
 
-We recommend that this project be launched in the late Spring. May and June have the highest success rates. The funding goal shouldn't be above $40,000. Projects above this amount have a higher failure rate. We would **highly \_recommend** that an investment be made to feature this project on the Kickstarter website.
+We recommend that this project be launched in the late Spring. May and June have the highest success rates. The funding goal shouldn't be above $40,000. Projects above this amount have a higher failure rate. We would **_highly recommend_** that an investment be made to feature this project on the Kickstarter website.
